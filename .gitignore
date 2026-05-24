@@ -1,5 +1,7 @@
 *.pem
 *.bin
-signature.txt
 payload.txt
+signature.txt
+license.json
 livego_private.pem
+livego_public.pem
