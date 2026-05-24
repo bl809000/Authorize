@@ -1,0 +1,5 @@
+*.pem
+*.bin
+signature.txt
+payload.txt
+livego_private.pem
