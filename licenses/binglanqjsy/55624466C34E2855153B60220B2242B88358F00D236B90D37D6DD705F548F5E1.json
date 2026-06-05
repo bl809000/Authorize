@@ -1,9 +1,9 @@
 {
-  "product": "binglanqjsy",
-  "device": "55624466C34E2855153B60220B2242B88358F00D236B90D37D6DD705F548F5E1",
-  "expire": "2099-12-31",
-  "level": "Pro永久版",
-  "user": "kafei",
-  "signature": "MEYCIQDUFx34sld4R/0EfZw4l0g+yddCz8N7UXQbgLFoa0c1NgIhAIrPTTG42hyea0jdLI9uix4V8bmSeWy3vdQDl4COEmZN",
-  "issuedAt": "2026-05-27 12:04:25"
+  "device" : "55624466C34E2855153B60220B2242B88358F00D236B90D37D6DD705F548F5E1",
+  "product" : "binglanqjsy",
+  "expire" : "2099-12-31",
+  "issuedAt" : "2026-06-05 10:40:01",
+  "level" : "Pro永久版",
+  "signature" : "MEUCICt\/f8tkve6Dl\/0yUFwlHvPdJTqcDUW13igpeDLhaQC9AiEAk2B\/lOhcAADv8gFVkLir14LCy2pbRipdEwawaxpWcgc=",
+  "user" : "liquanda0422"
 }
