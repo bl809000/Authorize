@@ -2,8 +2,9 @@
   "device" : "34393D5A4DAF0999913A4B49E0814A4C6073F84C4313B11A142FF5897862B1DB",
   "product" : "kongzhimeihua",
   "expire" : "2099-12-31",
-  "issuedAt" : "2026-06-06 16:45:52",
+  "issuedAt" : "2026-08-27 03:57:23",
   "level" : "Pro永久版",
-  "signature" : "MEUCIQC6vAB8T4PyJqlCsIZcqlkZgAV6vEjWDcCOmqFdVZMg8AIgA1eLHKTRbjXGnfrP6EcBcgWdbUtZHe48vZZ+wwWMDx0=",
-  "user" : "wxid_jnt9bji0p0q912"
+  "signature" : "MEUCIFkTrtEWH3jMx+0H4\/k06+WXvTr5t8Pr7r5neOeHglKoAiEA\/Ad9hgi43TXSSMGHR2HK3oKOMqkoCAi1N2zqUKzy6UQ=",
+  "rawInput" : "34393D5A4DAF0999913A4B49E0814A4C6073F84C4313B11A142FF5897862B1DB",
+  "user" : "未命名用户"
 }
