@@ -1,9 +1,12 @@
 {
   "device" : "7C09A948CFD6A807C8EDE0518976921821469C870DDDA0D6885703D0B22C984C",
   "product" : "kongzhimeihua",
-  "expire" : "2099-12-31",
-  "issuedAt" : "2026-06-15 15:53:58",
-  "level" : "Pro永久版",
-  "signature" : "MEQCIBAdCnqIYTCc6aMDLTYP0UvMgh\/lHqfJa8\/f0ggtnI72AiBN96s2ED5fF\/jc8IsjyfgQo9MGl\/ihm58RjQPHLcjH2Q==",
-  "user" : "bl"
+  "expire" : "permanent",
+  "serial" : "690EF8C6AC0F4A1CB36AD86BEE7966A4",
+  "user" : "未命名用户",
+  "level" : "Release",
+  "signature" : "MEUCIQCV7cEOvoZ\/ac7PFGOaUn+YxjGOB\/eLoG+aSQYRiAEOzgIgJVOptMOeRE4O\/qBatCQrXMP6DyRFiQ1BH2PDZXykBt0=",
+  "version" : 2,
+  "leaseUntil" : 1789178589,
+  "issuedAt" : 1788573789
 }
