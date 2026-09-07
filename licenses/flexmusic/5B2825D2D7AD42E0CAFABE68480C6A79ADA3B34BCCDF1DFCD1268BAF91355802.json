@@ -1,9 +1,12 @@
 {
   "device" : "5B2825D2D7AD42E0CAFABE68480C6A79ADA3B34BCCDF1DFCD1268BAF91355802",
   "product" : "flexmusic",
-  "expire" : "2099-12-31",
-  "issuedAt" : "2026-08-30 16:45:31",
-  "level" : "Pro永久版",
-  "signature" : "MEUCIQD5OCzPxvF1XpBYazcVzb+Lz0HKcNPLHwMK88oxugSTrQIgZHLf23LiIpru234y+cgSp7hiC\/kP5ZYTuXf6B+Rqbyc=",
-  "user" : "未命名用户"
+  "expire" : "permanent",
+  "serial" : "9B5FAF3A04AE496DA692CF06A569724C",
+  "user" : "未命名用户",
+  "level" : "Release",
+  "signature" : "MEUCIQC75+JdnwzvLIgc45JFVXLu6+ZGv716wPaOQ2omWd9kiwIgaKRqCrZ+DBwW+u4EtPqEZyhEv6iBvnH4ofjqwrEV\/DE=",
+  "version" : 2,
+  "leaseUntil" : 1789367282,
+  "issuedAt" : 1788762482
 }
