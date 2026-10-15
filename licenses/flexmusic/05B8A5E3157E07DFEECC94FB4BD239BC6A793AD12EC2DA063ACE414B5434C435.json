@@ -2,11 +2,11 @@
   "device" : "05B8A5E3157E07DFEECC94FB4BD239BC6A793AD12EC2DA063ACE414B5434C435",
   "product" : "flexmusic",
   "expire" : "permanent",
-  "serial" : "8793497422134483B3909A2FE14EAC9B",
+  "serial" : "D20AB593C1F74AF6B77B85D11F6C3BD2",
   "user" : "未命名用户",
   "level" : "Release",
-  "signature" : "MEYCIQDcMqY8Sq4TVkV95wpGCfPm8ty1tcQSjqcoYNAtaqtDAgIhAPim7R0yUvcJg3YcFFqfXRsDrxl0ittgQfglXej3Sxgn",
+  "signature" : "MEUCIC221yGPLtZiYxodl5aoLQwvrEE5AsSiZyd+nF9GEO9bAiEA4sb3HOKxbuRZmcWoNmeg4rgLpMLbxfBQDOGMrb3TkfY=",
   "version" : 2,
-  "leaseUntil" : 1791966955,
-  "issuedAt" : 1791362155
+  "leaseUntil" : 1792666331,
+  "issuedAt" : 1792061531
 }
