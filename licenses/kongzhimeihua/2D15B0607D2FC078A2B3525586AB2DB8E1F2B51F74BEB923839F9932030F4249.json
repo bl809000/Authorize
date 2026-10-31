@@ -2,11 +2,11 @@
   "device" : "2D15B0607D2FC078A2B3525586AB2DB8E1F2B51F74BEB923839F9932030F4249",
   "product" : "kongzhimeihua",
   "expire" : "permanent",
-  "serial" : "068704544FB048CDA2C1721CA74ABDA7",
+  "serial" : "7E5DE7D4F06244BFAF0277545922961F",
   "user" : "未命名用户",
   "level" : "Release",
-  "signature" : "MEUCIEr20uRrVWT9AYsmMMIZOevZ0Bw3RgmlbOs5AJ94WArhAiEA5yLPMItuSFwj3gJFMcO7m9+0lZnr4vvOjDzK9XVbpUA=",
+  "signature" : "MEYCIQCiOuBtb718sREh4XHPu3W\/XjVJfMMo4e4ELHsD6iaHtgIhAKHJqxTWte7wnEKlhAOR+4MK2+HvH756jKAGlRYfjXbl",
   "version" : 2,
-  "leaseUntil" : 1789304515,
-  "issuedAt" : 1788699715
+  "leaseUntil" : 1794055473,
+  "issuedAt" : 1793450673
 }
